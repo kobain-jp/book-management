@@ -9,4 +9,10 @@ Dependencies
 - JDBC API 
 - H2 Database
 
-### import to eclipse
+### import files to your eclipse
+1.open your eclipse
+2.File > import > Existing Gradle Project and select downloaded folder
+3.
+
+
+###
