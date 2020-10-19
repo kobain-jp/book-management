@@ -10,7 +10,8 @@ Dependencies
 - H2 Database
 
 
-`git clone https://github.com/kobain-jp/book-management.git`
+
+`git clone https://github.com/kobain-jp/jdbc-history-rest.git`
 
 ### import files to your eclipse
 1. open your eclipse
